@@ -1,0 +1,12 @@
+{
+    "name": "KintsugiBasketPin",
+    "namespace": "KintsugiBasketPin",
+    "type": "integration",
+    "version": "0.1.0",
+    "platform": {
+        "php": ">=7.3 <8.4"
+    },
+    "description": "Probe only. Pins each cart line to VAT class D (0%). Do not list on plentyMarketplace.",
+    "author": "Kintsugi",
+    "serviceProvider": "KintsugiBasketPin\\Providers\\KintsugiBasketPinServiceProvider"
+}
